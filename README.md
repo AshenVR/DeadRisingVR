@@ -6,15 +6,11 @@ This project is currently an **Alpha release**. It adds true stereo VR rendering
 
 > **Alpha warning:** some features are experimental and some visual issues remain. Please read the setup and known-issues sections before playing.
 
-## Source code and license
+## Disclaimer
 
-DeadRisingVR is **closed-source**.
+DeadRisingVR is an unofficial fan-made VR mod for the PC version of **Dead Rising**.
 
-This repository is intended for documentation, support information, and compiled binary releases only. The source code is not distributed publicly.
-
-**All rights reserved.** No open-source license is granted for DeadRisingVR.
-
-Dead Rising and related trademarks and game content belong to their respective owners. DeadRisingVR is an unofficial fan-made modification and is not affiliated with or endorsed by Capcom.
+Dead Rising and related trademarks and game content belong to their respective owners. DeadRisingVR is not affiliated with or endorsed by Capcom.
 
 ## Requirements
 
