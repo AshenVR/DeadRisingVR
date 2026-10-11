@@ -1,0 +1,52 @@
+# Build outputs
+build/
+build-*/
+out/
+dist/
+release/
+rollback/
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+*.cmake.user
+
+# Visual Studio
+.vs/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.user
+*.suo
+*.pdb
+*.ilk
+*.obj
+*.ipch
+*.tlog
+
+# Compiled binaries
+*.dll
+*.exe
+*.lib
+*.exp
+
+# Logs / diagnostics
+*.log
+*.dmp
+*.zip
+
+# Local / temporary files
+*.tmp
+*.temp
+*.bak
+*.orig
+*.swp
+Thumbs.db
+.DS_Store
+
+# DeadRisingVR local test/runtime artifacts
+DeadRisingVR-Alpha-InstallState.json
+DeadRisingVR-*.enable
