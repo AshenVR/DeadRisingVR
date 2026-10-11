@@ -249,6 +249,17 @@ Check:
 - V-Sync = OFF
 - Game FPS cap = headset refresh rate
 
+## Antivirus notice
+
+DeadRisingVR uses DLL injection to load the VR mod into Dead Rising.
+Because of this, some antivirus engines may report a heuristic or generic detection.
+
+The official Alpha v0.1.0 ZIP SHA-256 is:
+
+`DCF2EB3317E32802473C04FA793082EF1870A97730DA33672C8CD08765B4084D`
+
+Only download DeadRisingVR from the official GitHub repository.
+
 ## Diagnostics
 
 When reporting a problem, double-click:
